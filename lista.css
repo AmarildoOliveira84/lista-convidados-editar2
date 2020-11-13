@@ -1,0 +1,15 @@
+.centro{
+
+    text-align: center;
+    margin: auto;
+    width: 40%;
+}
+
+.img{
+    width: 20px;
+
+}
+input,button{
+width: 100%;
+padding: 10px;
+}
